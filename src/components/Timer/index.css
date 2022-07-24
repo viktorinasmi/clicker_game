@@ -1,0 +1,10 @@
+.timer {
+    height: 50px;
+    width: 50px;
+    background-color: darkblue;
+    color: white;
+}
+
+.timer.timer--finished {
+    background-color: crimson;
+}

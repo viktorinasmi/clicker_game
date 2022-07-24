@@ -1,0 +1,9 @@
+.button {
+    width: 96px;
+    height: 96px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    font-family: "Inter";
+}

@@ -1,0 +1,41 @@
+.result__visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.result__inner {
+    max-width: 260px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 24px;
+}
+
+.result__title{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.result__description{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.result__score {
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 96px;
+    color: #525c66;
+    padding: 8px 16px;
+    margin: 0 auto;
+    text-align: center;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #ffffff;
+    -webkit-box-shadow: 0 2px 4px rgb(0 0 0 / 20%);
+    -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px rgb(0 0 0 / 20%);
+}
